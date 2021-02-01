@@ -1,5 +1,5 @@
 # PNU_3991_AR
 صلاح مفاخری
-[Resume]()
+[Resume](https://github.com/SalahMafakheri85/PNU_3991_AR/tree/main/Resume)
 [SOP]()
 [Certificates]()
