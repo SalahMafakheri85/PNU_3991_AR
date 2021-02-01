@@ -7,3 +7,6 @@
 - [Resume](https://github.com/SalahMafakheri85/PNU_3991_AR/tree/main/Resume)
 - [SOP](https://github.com/SalahMafakheri85/PNU_3991_AR/tree/main/SOP)
 - [Certificates](https://github.com/SalahMafakheri85/PNU_3991_AR/tree/main/Certificates)
+# ارزیابی
+## بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/SalahMafakheri85/PNU_3991_AR/tree/main/_General)
